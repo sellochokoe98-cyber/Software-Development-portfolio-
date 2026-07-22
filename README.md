@@ -1,26 +1,58 @@
-# Software Development Portfolio
+# 💻 Software Development Portfolio
 
-This repository contains projects completed during the FNB App Academy and other software development learning.
+Welcome to my Software Development Portfolio. This repository showcases my journey through the **FNB App Academy**, where I am building practical software development skills using Python and modern application development tools.
 
-## Skills
-- Python
-- Git & GitHub
-- Problem Solving
-- Object-Oriented Programming
-- File Handling
-- Functions
-- Data Structures
-- Algorithms
+## 📚 Repository Structure
 
-## Projects
+### 🐍 Python Fundamentals
+Learned and applied the core concepts of Python programming.
+
+Projects include:
+- Student Information System
 - Calculator
+- Grade Classifier
 - Contact Book
 - ATM Simulator
-- Grade Classifier
 - Phone Directory
-- Password Hint Generator
 - High Score Tracker
-- Future App Academy Projects
 
-## Author
-Sello Chokoe
+### ⚙️ Software Engineering Concepts
+Projects demonstrating:
+- Object-Oriented Programming (OOP)
+- Functions
+- File Handling
+- Error Handling
+- Data Structures
+- Problem Solving
+- Git & GitHub
+
+### 📱 Mobile App Development
+Building mobile applications using:
+- Kivy
+- Multi-Screen Applications
+- KV Language
+- UI Design
+- API Integration
+
+### 🚀 Final Capstone Project
+A complete application developed during the FNB App Academy, demonstrating software design, development, testing, and deployment.
+
+## 🛠️ Technologies
+
+- Python
+- Kivy
+- Git
+- GitHub
+- VS Code
+- APIs
+
+## 🎯 Goal
+
+To build practical software development skills and create real-world applications while completing the FNB App Academy.
+
+## 👨‍💻 Author
+
+**Sello Chokoe**
+
+---
+*This repository is continuously updated as I complete new modules and projects during the FNB App Academy 
